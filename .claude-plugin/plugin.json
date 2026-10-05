@@ -1,0 +1,6 @@
+{
+  "name": "crypto-band",
+  "version": "1.0.0",
+  "description": "Bandeau au-dessus du prompt Claude Code : cours crypto et variation 24 h, en direct depuis CoinGecko",
+  "types": "./types/index.d.ts"
+}
